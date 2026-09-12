@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=900&color=A01C3C&center=true&vCenter=true&width=680&lines=M.Sc.+Computer+Science+%C2%B7+Berlin%2C+Germany;Data+engineering%2C+machine+learning+and+systems;Mechanical+engineer+turned+computer+scientist;I+document+how+things+work%2C+not+just+that+they+work" alt="Rakesh Ranjan Vejendla" />
 
-<a href="https://rakeshvicky7.github.io"><img src="https://img.shields.io/badge/Portfolio-rakeshvicky7.github.io-A01C3C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/rakesh-ranjan-vejendla-0a8260237"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:rrakeshranjan37@gmail.com"><img src="https://img.shields.io/badge/Email-rrakeshranjan37@gmail.com-7B0E24?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://rakeshvicky7.github.io"><img src="https://img.shields.io/badge/Portfolio-A01C3C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/rakesh-ranjan-vejendla-0a8260237"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rrakeshranjan37@gmail.com"><img src="https://img.shields.io/badge/Email-7B0E24?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -70,21 +70,8 @@ Each one has a page on my site that walks through the system stage by stage — 
 
 ---
 
-### GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakeshvicky7&show_icons=true&hide_border=true&title_color=A01C3C&icon_color=A01C3C&text_color=4A4750&bg_color=FAF6F0" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshvicky7&layout=compact&hide_border=true&title_color=A01C3C&text_color=4A4750&bg_color=FAF6F0" alt="Top languages" />
-
-</div>
-
----
-
 <div align="center">
 
 **Currently open to entry-level roles in data engineering, data analysis and machine learning — Berlin or remote in Germany, from October 2026.**
-
-<a href="https://rakeshvicky7.github.io">rakeshvicky7.github.io</a> · <a href="mailto:rrakeshranjan37@gmail.com">rrakeshranjan37@gmail.com</a>
 
 </div>
